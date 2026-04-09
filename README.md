@@ -20,22 +20,22 @@ The dataset contains the following fields:
  .Actual Amount
  .Payment Method
  .Transaction ID
- ###Additional columns created:
- .Variance (Actual - Budget)
- .Performance Status (Overspending / Underspending)
- .Month (for trend analysis)
+ ### Additional columns created:
+      .Variance (Actual - Budget)
+      .Performance Status (Overspending / Underspending)
+      .Month (for trend analysis)
 ### Data Cleaning Process
       Data cleaning was performed using Power Query and Excel, including:
        .Replaced missing values in Region and Department with "Unknown"
        .Ensured correct data types (Date, Numeric, Text)
        .Removed duplicates using Transaction ID
- Created calculated columns using Excel formulas:
+#### Created calculated columns using Excel formulas:
      .Variance
      .Performance Status
 Structured the dataset into an Excel Table for efficient analysis
 
 ### Exploratory Data Analysis (EDA)
-  EDA was carried out using:
+ ##### EDA was carried out using:
      .Pivot Tables
      .Charts (Column, Bar, Pie, Line)
 
