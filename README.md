@@ -1,4 +1,7 @@
 # Budget vs Actual Financial Analysis (Excel Project)
+
+![Image](https://github.com/user-attachments/assets/1b9703e0-08e9-4c77-8704-c2740234ce44)
+
 ## Project Overview
 .This project focuses on analyzing organizational spending by comparing budgeted amounts with actual expenditures across different departments, regions, and categories.
 The goal is to identify patterns, detect overspending or underspending, and provide insights that can support better financial decision-making.
