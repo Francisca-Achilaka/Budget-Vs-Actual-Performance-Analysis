@@ -1,4 +1,4 @@
-# Budget vs Actual Financial Analysis (Excel Project)
+# Budget vs Actual Performance Analysis (Excel Project)
 
 ![Image](https://github.com/user-attachments/assets/1b9703e0-08e9-4c77-8704-c2740234ce44)
 
